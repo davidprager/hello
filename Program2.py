@@ -1,6 +1,6 @@
 """
-CSCI-UA.0002 Section 007 Spring 2022
-Assignment #1, Program 2
+CSCI-UA.0002 Spring 2024
+Assignment #1, Program #2
 Your name here
 """
 # This program accepts two names to be input
