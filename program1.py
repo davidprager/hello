@@ -1,7 +1,10 @@
 """
 CSCI-UA.0002 Spring 2024
-Assignment #1, Program #1
-Your name here
+Test Program
 """
-# This program calculates the average age of three members of a band
-# that are stored in variables and prints out the information
+# This program will make sure that you are able to run a simple program in Pycharm
+# Update the program to include your name instead of Fred
+# and then commit the changes back to Github
+
+
+print ("Hi there, my name is Fred")
