@@ -7,4 +7,4 @@ Test Program
 # and then commit the changes back to Github
 
 
-print ("Hi there, my name is Fred")
+print ("Hi there, my name is David")
